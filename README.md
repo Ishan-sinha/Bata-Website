@@ -20,6 +20,7 @@ Absence of Bata on the internet and from e-marketing portals. Though off lately,
 
 - Addition of backend using Node.js and Angular.js
 - Deployment of a database using MongoDB
+- Use machine learning to for better product recommendation.
 
 ## Changes Working on :
 - Creating this application with Django and python 
