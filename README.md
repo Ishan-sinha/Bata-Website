@@ -21,7 +21,7 @@ Absence of Bata on the internet and from e-marketing portals. Though off lately,
 - Addition of backend using Node.js and Angular.js
 - Deployment of a database using MongoDB
 
-## Changes Working on
+## Changes Working on :
 - Creating this application with Django and python 
 - Improved functionalities to great extend.
 - Improved Navigation, User Interface, User Experience and faster loading of the application
