@@ -1,4 +1,4 @@
-# Bata Website
+# Bata : Online store for shoes
 
 This is a part of my introductory web development project which contains the front end of a sample website dedicated towards Bata (a footwear brand). This project was aimed to analyze the constraints in the collapsing market share of Bata and to improve it.
 Bata is an international footwear brand operating in India since 1931 and had a great brand value due to word of mouth among it's customers and had strong hold among it's customers due to extensive shops and showroom centres throughout the nation. While Bata was doing great on it's sales upto the first decade of 21st century, it saw a collapsing market share in the second decade due to absence from e-marketing.
